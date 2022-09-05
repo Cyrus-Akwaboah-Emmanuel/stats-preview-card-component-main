@@ -37,4 +37,4 @@ I learned how to vertically center objects. I thought I knew min/max height and 
 
 ## Author
 - Frontend Mentor - [@Cyrus-Akwaboah-Emmanuel](https://www.frontendmentor.io/profile/Cyrus-Akwaboah-Emmanuel)
-- Github - [correlucas](https://github.com/Cyrus-Akwaboah-Emmanuel)
+- Github - [Cyrus-Akwaboah-Emmanuel](https://github.com/Cyrus-Akwaboah-Emmanuel)
